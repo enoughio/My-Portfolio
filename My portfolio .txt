@@ -1,0 +1,85 @@
+My portfolio 
+
+^ minimal  and morden look 
+^ add a blog section for daily blog post - 1. write a blog post on websockets working and scalling
+	
+
+
+theme --- garlic gray 
+
+pages
+	home  
+		NAVE 
+		HERO -- CENTER 	
+		CALLFOR ACTION 
+		SORT INTRO-- 
+			HEAD
+			2 LONE DEINEATION --
+				i am a developer and designer i like to desing and code web i love minimalsi and brutlist desin i love nature and art
+or  i am a full stack web developer i like to code (and occasionally design) 
+
+ 
+digital expreances  	
+	
+
+		SOCIAL PROOF	
+
+		  
+	project
+	blog
+
+contact
+   email  --  in  bold letter 
+
+ --- a aseperatoeer b/w   OR find me cooking on
+
+   socilas  --  wjith logo 
+	 
+   		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Hi there 👋
+
+<!--
+**enoughio/enoughio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
