@@ -17,7 +17,9 @@ function App() {
 
 
       {/* <ParticlesBackground /> */}
-      <NavBar />
+
+      {/* fix nav */}
+      <NavBar />   
       <Hero />
       <Projects />
     
